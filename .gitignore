@@ -1,4 +1,5 @@
-.terraform
+.terraform/
 # Ignorar arquivos de estado do Terraform
 *.tfstate
 *.tfstate.*
+
