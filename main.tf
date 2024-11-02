@@ -78,4 +78,3 @@ resource "aws_apigatewayv2_stage" "default" {
   name        = "$default"                       # Nome do stage
   auto_deploy = true                            
 }
-
